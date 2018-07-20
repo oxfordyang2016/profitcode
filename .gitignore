@@ -1,0 +1,6 @@
+*~
+.waf*
+.lock-waf*
+.unittest-gtest/*
+tools/waf-plugins/*.pyc
+build/*

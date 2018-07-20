@@ -1,0 +1,9 @@
+libz -> yum install zlib zlib-devel
+libssl -> ln -s /usr/local/libssl
+crypto -> yum install openssl-devel
+libzmq -> zeromq
+libconfig -> a tool
+zfix, shq -> unkonwn
+log4cxx -> a linux tool
+zfix and log4cxx -> copy the /usr/local/lib and /usr/local/include
+for gzbuffer, list out the checker

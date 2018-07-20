@@ -1,0 +1,4 @@
+3 15 * * 1-7 curl "https://10.108.255.249/include/auth_action.php" --insecure --data "action=login&username=17210240111&password=584hxy..&ac_id=1&user_ip=&nas_ip=&user_mac=&save_me=1&ajax=1"
+4 15 * * 1-7 curl "https://10.108.255.249/include/auth_action.php" --insecure --data "action=login&username=17210240111&password=584hxy..&ac_id=1&user_ip=&nas_ip=&user_mac=&save_me=1&ajax=1"
+5 15 * * 1-7 curl "https://10.108.255.249/include/auth_action.php" --insecure --data "action=login&username=17210240111&password=584hxy..&ac_id=1&user_ip=&nas_ip=&user_mac=&save_me=1&ajax=1"
+6 15 * * 1-7 curl "https://10.108.255.249/include/auth_action.php" --insecure --data "action=login&username=17210240111&password=584hxy..&ac_id=1&user_ip=&nas_ip=&user_mac=&save_me=1&ajax=1"

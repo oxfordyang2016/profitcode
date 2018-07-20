@@ -1,0 +1,40 @@
+<root>
+ <delfile>
+
+  <filenum> 35 </filenum>
+
+  <paths>
+   <path> 
+    <pathname>/tmp/tmp0/</pathname>
+    <before_hours> 0 </before_hours>
+   </path>
+  
+   <path> 
+    <pathname>/tmp/tmp1/</pathname>
+    <before_hours> 1 </before_hours>
+   </path>
+  
+   <path> 
+    <pathname>/tmp/tmp2/</pathname>
+    <before_hours> 2 </before_hours>
+   </path>
+  
+   <path> 
+    <pathname>/tmp/tmp3/</pathname>
+    <before_hours> 3 </before_hours>
+   </path>
+  
+   <path> 
+    <pathname>/tmp/tmp4/</pathname>
+    <before_hours> 4 </before_hours>
+   </path>
+  </paths>
+
+ </delfile>
+
+
+ <backup>
+  <backuptime> 23:59 </backuptime>
+ </backup>
+
+</root>

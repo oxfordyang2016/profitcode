@@ -1,0 +1,20 @@
+hostname foo
+sudo vi /etc/sysconfig/network
+HOSTNAME=foo
+sudo vi /etc/ssh/sshd_config
+  i. PermitRootLogin no
+  i. PasswordAuthentication no
+
+useradd zentero
+passwd zentero
+visudo
+  - add zentero to sudo'ers
+
+chsh
+
+a. Add public key to ~/.ssh/authorized_keys
+  i. mkdir ~/.ssh
+  i. chmod 700 ~/.ssh
+  i. cd ~/.ssh
+  i. vi authorized_keys
+  i. Paste public key, generated from private key locally using: ssh-keygen -y -f ~/.ssh/nanshan_backup

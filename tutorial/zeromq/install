@@ -1,0 +1,5 @@
+http://www.cnblogs.com/Anker/p/4706111.html
+after install, the zmq.hpp may be lost
+can be found here:
+https://github.com/zeromq/cppzmq/blob/master/zmq.hpp
+add it manually
